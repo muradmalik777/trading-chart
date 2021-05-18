@@ -9,7 +9,7 @@ export function createWidgetOptions(symbol, allSymbols) {
         fullscreen: true, // displays the chart in the fullscreen mode
         container_id: 'trading_view_chart',
         datafeed: feed,
-        library_path: "/murad/charting_library/",
+        library_path: "/charting_library/charting_library/",
     };
   }
 
